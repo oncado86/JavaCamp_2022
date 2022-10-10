@@ -1,4 +1,4 @@
-package Calismalar.c_7_loopDemo;
+package Calismalar.c_07_loopDemo;
 
 public class loopDemo {
     /**

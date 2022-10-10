@@ -1,4 +1,4 @@
-package Calismalar.c_1_helloWorld;
+package Calismalar.c_01_helloWorld;
 
 public class helloWorld {
 

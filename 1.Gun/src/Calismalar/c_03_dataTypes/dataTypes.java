@@ -1,4 +1,4 @@
-package Calismalar.c_3_dataTypes;
+package Calismalar.c_03_dataTypes;
 
 public class dataTypes {
 

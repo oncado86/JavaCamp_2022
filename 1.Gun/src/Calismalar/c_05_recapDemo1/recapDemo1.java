@@ -1,4 +1,4 @@
-package Calismalar.c_5_recapDemo1;
+package Calismalar.c_05_recapDemo1;
 
 public class recapDemo1 {
     /**

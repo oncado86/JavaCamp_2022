@@ -1,4 +1,4 @@
-package Calismalar.c_2_variables;
+package Calismalar.c_02_variables;
 
 public class Variables {
 

@@ -1,4 +1,4 @@
-package Calismalar.c_4_conditionals;
+package Calismalar.c_04_conditionals;
 
 public class conditionals {
     /**

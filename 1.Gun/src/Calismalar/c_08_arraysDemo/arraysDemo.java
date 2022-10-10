@@ -1,4 +1,4 @@
-package Calismalar.c_8_arraysDemo;
+package Calismalar.c_08_arraysDemo;
 
 public class arraysDemo {
     /**
