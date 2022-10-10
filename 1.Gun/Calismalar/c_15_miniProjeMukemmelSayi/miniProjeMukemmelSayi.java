@@ -1,0 +1,52 @@
+package Calismalar.c_15_miniProjeMukemmelSayi;
+
+import java.util.Scanner;
+
+public class miniProjeMukemmelSayi {
+    /**
+     * @author <a href="https://github.com/oncado86">OnCaDo</a>
+     * @deprecated JAVA Yazılım Geliştirici Kampı 2022
+     * @version 1.0
+     * 
+     **          Mükemmel sayı mı?
+     */
+    public static void main(String[] args) {
+        System.out.println(isPerfectNumber(getNumber()));
+    }
+
+    /**
+     * Konsoldan sadece sayı girişine izin verir
+     * 
+     * @return tam sayı
+     */
+    private static int getNumber() {
+        int number;
+        System.out.print("Please enter a number: ");
+        Scanner readConsole = new Scanner(System.in);
+        try {
+            number = Integer.parseInt(readConsole.next());
+            readConsole.close();
+            return number;
+        } catch (Exception e) {
+            System.out.println("ERROR: Please entere just number!");
+            return getNumber();
+        }
+    }
+
+    /**
+     * Sayının mükemmel sayı olma durumunu inceler.
+     * 
+     * @param number int sayı
+     * @return String sayının mükemmel sayı olma durumunu döndürür
+     */
+    private static String isPerfectNumber(int number) {
+        int divisorSum = 1;
+        for (int i = 2; i < number; i++) {
+            if (number % i == 0)
+                divisorSum += i;
+        }
+        if (divisorSum == number)
+            return String.format("%d is perfect number.", number);
+        return String.format("%d is not perfect number.", number);
+    }
+}
