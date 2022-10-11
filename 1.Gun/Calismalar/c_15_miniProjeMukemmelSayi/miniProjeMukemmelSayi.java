@@ -53,6 +53,5 @@ public class miniProjeMukemmelSayi {
             message = String.format("%d is not perfect number.", number);
 
         return message;
-
     }
 }
