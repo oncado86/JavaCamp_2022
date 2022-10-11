@@ -2,15 +2,19 @@ package Ders.OOP_1;
 
 import java.util.ArrayList;
 
+/**
+ * @version 1.0
+ * @author <a href="https://github.com/oncado86">OnCaDo</a>
+ * @category JAVA
+ * @see * JAVA Yzılım Geliştirici Kampı 2022
+ * 
+ * @apiNote
+ **          OOP : Object-Oriented Programming
+ * @apiNote
+ **          (NYP: Nesne Yönelimli Programlama)
+ */
 public class Oop_1 {
-    /**
-     * @author <a href="https://github.com/oncado86">OnCaDo</a>
-     * @deprecated JAVA Yazılım Geliştirici Kampı 2022
-     * @version 1.0
-     * 
-     **          OOP : Object-Oriented Programming
-     **          (NYP: Nesne Yönelimli Programlama)
-     */
+
     public static void main(String[] args) {
         // String mesaj = "OnCaDo";
 
@@ -53,5 +57,24 @@ public class Oop_1 {
             System.out.println(aProduct.getName());
         }
 
+        IndividuolCustomer individuolCustomer = new IndividuolCustomer();
+        individuolCustomer.setId(1);
+        individuolCustomer.setCustomerNumber("12345");
+        individuolCustomer.setPhoneNumber("05xxxxxxxxx");
+        individuolCustomer.setFirstName("OnCaDo");
+        individuolCustomer.setLastName("OnCaDo");
+
+        CorporateCustomer corporateCustomer = new CorporateCustomer();
+        corporateCustomer.setId(2);
+        corporateCustomer.setCompanyName("github.com/oncado86");
+        corporateCustomer.setPhoneNumber("05xxxxxxxxx");
+        corporateCustomer.setTaxNumber("1234567890");
+        corporateCustomer.setCustomerNumber("54321");
+
+        Customer[] customers = { individuolCustomer, corporateCustomer };
+
+        ArrayList<Customer> aCustomers = new ArrayList<Customer>();
+        aCustomers.add(individuolCustomer);
+        aCustomers.add(corporateCustomer);
     }
 }

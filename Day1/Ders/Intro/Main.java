@@ -1,15 +1,14 @@
 package Ders.Intro;
 
+/**
+ * @version 1.0
+ * @author <a href="https://github.com/oncado86">OnCaDo</a>
+ * @see * JAVA YAzılım Geliştirici Kampı 2022
+ * @category JAVA
+ * 
+ ** @apiNote Main Java'da programın başlama noktasıdır.
+ */
 public class Main {
-
-    /**
-     * @author <a href="https://github.com/oncado86">OnCaDo</a>
-     * @deprecated JAVA Yazılım Geliştirici Kampı 2022
-     * @version 1.0
-     * 
-     **          Main Java'da programın başlama noktasıdır.
-     */
-
     public static void main(String[] args) {
         System.out.println("Hello World!\n");
 

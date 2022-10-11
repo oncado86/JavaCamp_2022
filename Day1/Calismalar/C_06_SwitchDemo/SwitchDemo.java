@@ -1,13 +1,16 @@
 package Calismalar.C_06_SwitchDemo;
 
+/**
+ * @version 1.0
+ * @author <a href="https://github.com/oncado86">OnCaDo</a>
+ * @category JAVA
+ * @see * JAVA Yzılım Geliştirici Kampı 2022
+ * 
+ * @apiNote
+ **          Karar yapısı.
+ */
 public class SwitchDemo {
-    /**
-     * @author <a href="https://github.com/oncado86">OnCaDo</a>
-     * @deprecated JAVA Yazılım Geliştirici Kampı 2022
-     * @version 1.0
-     * 
-     **          Karar yapısı.
-     */
+
     public static void main(String[] args) {
         char grade = 'A';
 

@@ -1,17 +1,17 @@
 package Calismalar.C_01_HelloWorld;
 
+/**
+ * @version 1.0
+ * @author <a href="https://github.com/oncado86">OnCaDo</a>
+ * @see * JAVA Yzılım Geliştirici Kampı 2022
+ * @category JAVA
+ * @apiNote
+ **          İlk Java uygulaması.
+ */
 public class HelloWorld {
-
-    /**
-     * @author <a href="https://github.com/oncado86">OnCaDo</a>
-     * @deprecated JAVA Yazılım Geliştirici Kampı 2022
-     * @version 1.0
-     * 
-     **          İlk Java uygulaması.
-     */
 
     public static void main(String[] args) {
         System.out.println("Merhaba Java");
-        
+
     }
 }

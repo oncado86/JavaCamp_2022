@@ -2,15 +2,17 @@ package Calismalar.C_16_miniProjeArkadasSayilar;
 
 import java.util.Scanner;
 
-public class MiniProjeArkadasSayilar {
+/**
+ * @version 1.0
+ * @author <a href="https://github.com/oncado86">OnCaDo</a>
+ * @category JAVA
+ * @see * JAVA Yzılım Geliştirici Kampı 2022
+ * 
+ * @apiNote
+ *          * Arkadaş Sayılar mı?
+ */
 
-    /**
-     * @author <a href="https://github.com/oncado86">OnCaDo</a>
-     * @deprecated JAVA Yazılım Geliştirici Kampı 2022
-     * @version 1.0
-     * 
-     **          Arkadaş Sayılar mı?
-     */
+public class MiniProjeArkadasSayilar {
 
     public static void main(String[] args) {
         int[] numbers = new int[2];
@@ -51,8 +53,9 @@ public class MiniProjeArkadasSayilar {
 
     /**
      * Kendisi hariç pozitif tam sayı bölenlerinin toplamını bulur
-     * @param number hesaplanacak sayı
-     * @return kendisi hariç pozitif tam sayı bölenlerinin toplamı
+     * 
+     * @param number -> hesaplanacak sayı
+     * @return kendisi hariç pozitif tam sayı bölenlerinin toplamı (integer value)
      */
     private static int divisorSum(int number) {
         int divisorTotal = 1;

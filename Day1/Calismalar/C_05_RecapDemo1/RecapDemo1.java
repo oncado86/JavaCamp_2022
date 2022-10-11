@@ -1,13 +1,16 @@
 package Calismalar.C_05_RecapDemo1;
 
+/**
+ * @version 1.0
+ * @author <a href="https://github.com/oncado86">OnCaDo</a>
+ * @category JAVA
+ * @see * JAVA Yzılım Geliştirici Kampı 2022
+ * 
+ * @apiNote
+ **          En büyük sayı hangisi?.
+ */
 public class RecapDemo1 {
-    /**
-     * @author <a href="https://github.com/oncado86">OnCaDo</a>
-     * @deprecated JAVA Yazılım Geliştirici Kampı 2022
-     * @version 1.0
-     * 
-     **          En büyük sayı hangisi?.
-     */
+
     public static void main(String[] args) {
         int sayi1 = 122;
         int sayi2 = 21;
@@ -20,7 +23,7 @@ public class RecapDemo1 {
             enBuyukSayi = sayi2;
         else
             enBuyukSayi = sayi3;
-        
+
         System.out.println(String.format("En büyük sayı: %d", enBuyukSayi));
     }
 }

@@ -1,14 +1,15 @@
 package Calismalar.C_03_DataTypes;
 
+/**
+ * @version 1.0
+ * @author <a href="https://github.com/oncado86">OnCaDo</a>
+ * @category JAVA
+ * @see * JAVA Yzılım Geliştirici Kampı 2022
+ * 
+ * @apiNote
+ **          Veri tipleri.
+ */
 public class DataTypes {
-
-    /**
-     * @author <a href="https://github.com/oncado86">OnCaDo</a>
-     * @deprecated JAVA Yazılım Geliştirici Kampı 2022
-     * @version 1.0
-     * 
-     **          Veri tipleri.
-     */
 
     public static void main(String[] args) {
 

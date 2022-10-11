@@ -2,14 +2,17 @@ package Calismalar.C_15_MiniProjeMukemmelSayi;
 
 import java.util.Scanner;
 
+/**
+ * @version 1.0
+ * @author <a href="https://github.com/oncado86">OnCaDo</a>
+ * @category JAVA
+ * @see * JAVA Yzılım Geliştirici Kampı 2022
+ * 
+ * @apiNote
+ *          * Mükemmel sayı mı?
+ */
 public class MiniProjeMukemmelSayi {
-    /**
-     * @author <a href="https://github.com/oncado86">OnCaDo</a>
-     * @deprecated JAVA Yazılım Geliştirici Kampı 2022
-     * @version 1.0
-     * 
-     **          Mükemmel sayı mı?
-     */
+    
     public static void main(String[] args) {
         System.out.println(isPerfectNumber(getNumber()));
     }

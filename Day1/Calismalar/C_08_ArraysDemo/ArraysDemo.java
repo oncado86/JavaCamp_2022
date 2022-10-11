@@ -1,13 +1,16 @@
 package Calismalar.C_08_ArraysDemo;
 
+/**
+ * @version 1.0
+ * @author <a href="https://github.com/oncado86">OnCaDo</a>
+ * @category JAVA
+ * @see * JAVA Yzılım Geliştirici Kampı 2022
+ * 
+ * @apiNote
+ **          Dizilerle çalışmak.
+ */
 public class ArraysDemo {
-    /**
-     * @author <a href="https://github.com/oncado86">OnCaDo</a>
-     * @deprecated JAVA Yazılım Geliştirici Kampı 2022
-     * @version 1.0
-     * 
-     **          Dizilerle çalışmak.
-     */
+
     public static void main(String[] args) {
         String ogrenci1 = "Onur";
         String ogrenci2 = "İsmail";

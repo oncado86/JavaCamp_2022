@@ -7,10 +7,11 @@ import java.util.Scanner;
 public class MiniProjeSayıBulma {
     /**
      * @author <a href="https://github.com/oncado86">OnCaDo</a>
-     * @deprecated JAVA Yazılım Geliştirici Kampı 2022
+     * @apiNote JAVA YAzılım Geliştirici Kampı 2022
+     * @category JAVA
      * @version 1.0
      * 
-     **          Sayı Listede Var Mı?
+     *          * Sayı Listede Var Mı?
      */
     public static void main(String[] args) {
         System.out.println("Please enter a number for the number list: (-1 for the finish)");
@@ -52,6 +53,13 @@ public class MiniProjeSayıBulma {
         return 0;
     }
 
+    /**
+     * Bir tam sayının sayı listesinde olup olmadını kontrol eder
+     * 
+     * @param numberToSearch -> listede aranacak sayı (int)
+     * @param theNumberList  -> tam sayı listesi (List)
+     * @return Aranın sayının listede bulunma bilgisi (Strign)
+     */
     private static String isTheNumberOnTheLiString(int numberToSearch, List<Integer> theNumberList) {
         boolean found = false;
         for (int number : theNumberList) {

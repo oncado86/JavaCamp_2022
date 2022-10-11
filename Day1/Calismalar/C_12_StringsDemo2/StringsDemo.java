@@ -1,13 +1,16 @@
 package Calismalar.C_12_StringsDemo2;
 
+/**
+ * @version 1.0
+ * @author <a href="https://github.com/oncado86">OnCaDo</a>
+ * @category JAVA
+ * @see * JAVA Yzılım Geliştirici Kampı 2022
+ * 
+ * @apiNote
+ **          String metotları-2.
+ */
 public class StringsDemo {
-    /**
-     * @author <a href="https://github.com/oncado86">OnCaDo</a>
-     * @deprecated JAVA Yazılım Geliştirici Kampı 2022
-     * @version 1.0
-     * 
-     **          String metotları-2.
-     */
+    
     public static void main(String[] args) {
         String mesaj = "Bugün hava çok güzel.";
         System.out.println(mesaj);

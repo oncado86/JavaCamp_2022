@@ -1,14 +1,15 @@
 package Calismalar.C_02_Variables;
 
+/**
+ * @version 1.0
+ * @author <a href="https://github.com/oncado86">OnCaDo</a>
+ * @category JAVA
+ * @see * JAVA Yzılım Geliştirici Kampı 2022
+ * 
+ * @apiNote
+ **          Tam sayı (int) ve Metinsel (String) değişkenler.
+ */
 public class Variables {
-
-    /**
-     * @author <a href="https://github.com/oncado86">OnCaDo</a>
-     * @deprecated JAVA Yazılım Geliştirici Kampı 2022
-     * @version 1.0
-     * 
-     **          Tam sayı (int) ve Metinsel (String) değişkenler.
-     */
 
     public static void main(String[] args) {
         int ogrenciSayisi = 12;

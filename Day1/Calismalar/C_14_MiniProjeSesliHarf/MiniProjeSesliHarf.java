@@ -2,14 +2,17 @@ package Calismalar.C_14_MiniProjeSesliHarf;
 
 import java.util.Scanner;
 
+/**
+ * @version 1.0
+ * @author <a href="https://github.com/oncado86">OnCaDo</a>
+ * @category JAVA
+ * @see * JAVA Yzılım Geliştirici Kampı 2022
+ * 
+ * @apiNote
+ *          * Girilen değer sesli harf mi? Hangi tür?
+ */
 public class MiniProjeSesliHarf {
-    /**
-     * @author <a href="https://github.com/oncado86">OnCaDo</a>
-     * @deprecated JAVA Yazılım Geliştirici Kampı 2022
-     * @version 1.0
-     * 
-     *          * Girilen değer sesli harf mi? Hangi tür?
-     */
+    
     public static void main(String[] args) {
         System.out.println(checkVowel(getChar()));
     }
@@ -47,7 +50,7 @@ public class MiniProjeSesliHarf {
 
     /**
      * Gelen değerin sesli harf olup olmadığını kontrol eder.
-     * @param vowel String harf.
+     * @param vowel -> String harf.
      * @return String türünde harf durum bilgisini döndürür.
      */
     private static String checkVowel(String vowel) {

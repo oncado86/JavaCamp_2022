@@ -1,13 +1,16 @@
 package Calismalar.C_07_LoopDemo;
 
+/**
+ * @version 1.0
+ * @author <a href="https://github.com/oncado86">OnCaDo</a>
+ * @category JAVA
+ * @see * JAVA Yzılım Geliştirici Kampı 2022
+ * 
+ * @apiNote
+ **          Döngüler kodları tekrarlamaya yarar.
+ */
 public class LoopDemo {
-    /**
-     * @author <a href="https://github.com/oncado86">OnCaDo</a>
-     * @deprecated JAVA Yazılım Geliştirici Kampı 2022
-     * @version 1.0
-     * 
-     **          Döngüler kodları tekrarlamaya yarar.
-     */
+
     public static void main(String[] args) {
 
         // ? For Döngüsünde, şart ve artış en baştan belirlenir.

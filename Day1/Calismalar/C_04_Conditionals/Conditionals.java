@@ -1,13 +1,15 @@
 package Calismalar.C_04_Conditionals;
 
+/**
+ * @version 1.0
+ * @author <a href="https://github.com/oncado86">OnCaDo</a>
+ * @category JAVA
+ * @see * JAVA Yzılım Geliştirici Kampı 2022
+ * 
+ * @apiNote
+ **          Şart Bloklari
+ */
 public class Conditionals {
-    /**
-     * @author <a href="https://github.com/oncado86">OnCaDo</a>
-     * @deprecated JAVA Yazılım Geliştirici Kampı 2022
-     * @version 1.0
-     * 
-     **          Şart Bloklari
-     */
 
     public static void main(String[] args) {
         int sayi = 24;
