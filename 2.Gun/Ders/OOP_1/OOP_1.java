@@ -7,7 +7,7 @@ public class OOP_1 {
      * @version 1.0
      * 
      **          OOP : Object-Oriented Programming
-     *          (NYP: Nesne Yönelimli Programlama)
+     **          (NYP: Nesne Yönelimli Programlama)
      */
     public static void main(String[] args) {
 
