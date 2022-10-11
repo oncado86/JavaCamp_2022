@@ -1,4 +1,4 @@
-package Day2.Ders.OOP_1;
+package Ders.OOP_1;
 
 /**
  * @author <a href="https://github.com/oncado86">OnCaDo</a>

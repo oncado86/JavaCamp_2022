@@ -1,4 +1,4 @@
-package Day1.Calismalar.C_03_DataTypes;
+package Calismalar.C_03_DataTypes;
 
 public class DataTypes {
 

@@ -1,4 +1,4 @@
-package Day1.Ders.Intro;
+package Ders.Intro;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package Day1.Calismalar.C_16_miniProjeArkadasSayilar;
+package Calismalar.C_16_miniProjeArkadasSayilar;
 
 import java.util.Scanner;
 

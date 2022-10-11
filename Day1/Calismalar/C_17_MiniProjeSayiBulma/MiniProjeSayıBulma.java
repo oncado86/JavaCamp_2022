@@ -1,4 +1,4 @@
-package Day1.Calismalar.C_17_MiniProjeSayiBulma;
+package Calismalar.C_17_MiniProjeSayiBulma;
 
 import java.util.ArrayList;
 import java.util.List;

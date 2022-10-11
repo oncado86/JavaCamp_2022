@@ -1,4 +1,4 @@
-package Day1.Calismalar.C_13_MiniProjeAsalSayi;
+package Calismalar.C_13_MiniProjeAsalSayi;
 
 import java.util.Scanner;
 

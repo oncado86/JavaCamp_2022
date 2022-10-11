@@ -1,4 +1,4 @@
-package Day1.Calismalar.C_04_Conditionals;
+package Calismalar.C_04_Conditionals;
 
 public class Conditionals {
     /**

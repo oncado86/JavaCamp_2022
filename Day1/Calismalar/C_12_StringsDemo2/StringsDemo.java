@@ -1,4 +1,4 @@
-package Day1.Calismalar.C_12_StringsDemo2;
+package Calismalar.C_12_StringsDemo2;
 
 public class StringsDemo {
     /**

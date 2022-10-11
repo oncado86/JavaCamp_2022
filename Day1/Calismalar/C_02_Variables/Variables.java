@@ -1,4 +1,4 @@
-package Day1.Calismalar.C_02_Variables;
+package Calismalar.C_02_Variables;
 
 public class Variables {
 

@@ -1,4 +1,4 @@
-package Day1.Calismalar.C_01_HelloWorld;
+package Calismalar.C_01_HelloWorld;
 
 public class HelloWorld {
 

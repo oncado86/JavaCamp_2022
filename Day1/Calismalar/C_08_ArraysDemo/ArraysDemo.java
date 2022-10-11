@@ -1,4 +1,4 @@
-package Day1.Calismalar.C_08_ArraysDemo;
+package Calismalar.C_08_ArraysDemo;
 
 public class ArraysDemo {
     /**

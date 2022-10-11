@@ -1,4 +1,4 @@
-package Day2.Ders.OOP_1;
+package Ders.OOP_1;
 
 public class OOP_1 {
     /**
@@ -11,5 +11,8 @@ public class OOP_1 {
      */
     public static void main(String[] args) {
         System.out.println("Hello");
+
+        Product product = new Product();
+        
     }
 }

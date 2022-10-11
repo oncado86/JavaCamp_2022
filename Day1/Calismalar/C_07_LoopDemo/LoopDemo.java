@@ -1,4 +1,4 @@
-package Day1.Calismalar.C_07_LoopDemo;
+package Calismalar.C_07_LoopDemo;
 
 public class LoopDemo {
     /**

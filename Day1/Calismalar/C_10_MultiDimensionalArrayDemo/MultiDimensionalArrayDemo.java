@@ -1,4 +1,4 @@
-package Day1.Calismalar.C_10_MultiDimensionalArrayDemo;
+package Calismalar.C_10_MultiDimensionalArrayDemo;
 
 public class MultiDimensionalArrayDemo {
     /**

@@ -1,4 +1,4 @@
-package Day1.Calismalar.C_09_RecapDemo2;
+package Calismalar.C_09_RecapDemo2;
 
 public class RecapDemo2 {
     /**

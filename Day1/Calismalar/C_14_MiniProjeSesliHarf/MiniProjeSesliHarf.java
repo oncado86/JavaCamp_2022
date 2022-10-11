@@ -1,4 +1,4 @@
-package Day1.Calismalar.C_14_MiniProjeSesliHarf;
+package Calismalar.C_14_MiniProjeSesliHarf;
 
 import java.util.Scanner;
 

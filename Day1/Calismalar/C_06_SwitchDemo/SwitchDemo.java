@@ -1,4 +1,4 @@
-package Day1.Calismalar.C_06_SwitchDemo;
+package Calismalar.C_06_SwitchDemo;
 
 public class SwitchDemo {
     /**
