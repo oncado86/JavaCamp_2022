@@ -1,5 +1,5 @@
 # Java Kampı 2022
-<center>
+<div align="center" width="100%">
 Engin Demiroğ : Yazılım Geliştirici Yetiştirme Kampı - JAVA (2022)
 
 Engin Demiroğ : Software Developer Training Camp - JAVA (2022)
@@ -9,4 +9,4 @@ Engin Demiroğ : Software Developer Training Camp - JAVA (2022)
 
 ![java](https://user-images.githubusercontent.com/77399565/194779564-3374fa9a-aeb9-4fe8-bee0-fddf0b287158.png)
 
-</center>
+</div>
