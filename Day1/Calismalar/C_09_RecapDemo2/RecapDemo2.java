@@ -4,7 +4,7 @@ package Calismalar.C_09_RecapDemo2;
  * @version 1.0
  * @author <a href="https://github.com/oncado86">OnCaDo</a>
  * @category JAVA
- * @see * JAVA Yzılım Geliştirici Kampı 2022
+ * @see * JAVA Yazılım Geliştirici Kampı 2022
  * 
  */
 public class RecapDemo2 {

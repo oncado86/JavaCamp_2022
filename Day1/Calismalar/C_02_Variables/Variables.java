@@ -4,7 +4,7 @@ package Calismalar.C_02_Variables;
  * @version 1.0
  * @author <a href="https://github.com/oncado86">OnCaDo</a>
  * @category JAVA
- * @see * JAVA Yzılım Geliştirici Kampı 2022
+ * @see * JAVA Yazılım Geliştirici Kampı 2022
  * 
  * @apiNote
  **          Tam sayı (int) ve Metinsel (String) değişkenler.

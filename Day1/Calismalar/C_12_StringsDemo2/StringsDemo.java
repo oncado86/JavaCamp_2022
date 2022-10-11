@@ -4,7 +4,7 @@ package Calismalar.C_12_StringsDemo2;
  * @version 1.0
  * @author <a href="https://github.com/oncado86">OnCaDo</a>
  * @category JAVA
- * @see * JAVA Yzılım Geliştirici Kampı 2022
+ * @see * JAVA Yazılım Geliştirici Kampı 2022
  * 
  * @apiNote
  **          String metotları-2.

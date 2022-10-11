@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * @version 1.0
  * @author <a href="https://github.com/oncado86">OnCaDo</a>
  * @category JAVA
- * @see * JAVA Yzılım Geliştirici Kampı 2022
+ * @see * JAVA Yazılım Geliştirici Kampı 2022
  * 
  * @apiNote
  **          OOP : Object-Oriented Programming
@@ -71,7 +71,7 @@ public class Oop_1 {
         corporateCustomer.setTaxNumber("1234567890");
         corporateCustomer.setCustomerNumber("54321");
 
-        Customer[] customers = { individuolCustomer, corporateCustomer };
+        // Customer[] customers = { individuolCustomer, corporateCustomer };
 
         ArrayList<Customer> aCustomers = new ArrayList<Customer>();
         aCustomers.add(individuolCustomer);

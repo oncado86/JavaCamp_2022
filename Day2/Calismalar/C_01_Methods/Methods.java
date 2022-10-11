@@ -1,7 +1,6 @@
-package Calismalar.C_17_MiniProjeSayiBulma;
+package Calismalar.C_01_Methods;
 
 import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 /**
@@ -11,17 +10,17 @@ import java.util.Scanner;
  * @see * JAVA Yazılım Geliştirici Kampı 2022
  * 
  * @apiNote
- *      * Sayı Listede Var Mı?
+ **          Metotlarla çalışmak
  */
-public class MiniProjeSayıBulma {
-
+public class Methods {
     public static void main(String[] args) {
+
         Scanner scanner = new Scanner(System.in);
-        List<Integer> theNumberList = new ArrayList<Integer>();        
+        ArrayList<Integer> theNumberList = new ArrayList<Integer>();
         theNumberList = createList();
 
         System.out.print("Please enter a number for search: ");
-        int theNumbertoSearch; 
+        int theNumbertoSearch;
         theNumbertoSearch = getNumber();
         scanner.close();
         System.out.println(isTheNumberOnTheLiString(theNumbertoSearch, theNumberList));
@@ -29,18 +28,19 @@ public class MiniProjeSayıBulma {
 
     /**
      * Sayı listesi oluşturur
+     * 
      * @return sayı listesi (List)
      */
-    private static List<Integer> createList() {
+    private static ArrayList<Integer> createList() {
         System.out.println("Please enter a number for the number list: (-1 for the finish)");
-        List<Integer> list = new ArrayList<Integer>();
+        ArrayList<Integer> list = new ArrayList<Integer>();
         int number;
         while (true) {
             number = getNumber();
             if (number == -1)
                 break;
             list.add(number);
-        }        
+        }
 
         return list;
     }
@@ -74,7 +74,7 @@ public class MiniProjeSayıBulma {
      * @param theNumberList  -> tam sayı listesi (List)
      * @return Aranın sayının listede bulunma bilgisi (Strign)
      */
-    private static String isTheNumberOnTheLiString(int numberToSearch, List<Integer> theNumberList) {
+    private static String isTheNumberOnTheLiString(int numberToSearch, ArrayList<Integer> theNumberList) {
         boolean found = false;
         for (int number : theNumberList) {
             if (number == numberToSearch) {

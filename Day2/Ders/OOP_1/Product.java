@@ -3,7 +3,7 @@ package Ders.OOP_1;
 /**
  * @version 1.0
  * @author <a href="https://github.com/oncado86">OnCaDo</a>
- * @see * JAVA YAzılım Geliştirici Kampı 2022
+ * @see * JAVA Yazılım Geliştirici Kampı 2022
  * @category JAVA
  * 
  ** @apiNote Classes (Sınıflar) PascalCase olarak isimlendirilir.

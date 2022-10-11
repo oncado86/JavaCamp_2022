@@ -3,7 +3,7 @@ package Calismalar.C_01_HelloWorld;
 /**
  * @version 1.0
  * @author <a href="https://github.com/oncado86">OnCaDo</a>
- * @see * JAVA Yzılım Geliştirici Kampı 2022
+ * @see * JAVA Yazılım Geliştirici Kampı 2022
  * @category JAVA
  * @apiNote
  **          İlk Java uygulaması.
