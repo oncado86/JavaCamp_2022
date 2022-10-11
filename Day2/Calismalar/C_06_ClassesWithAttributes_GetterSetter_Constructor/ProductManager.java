@@ -1,4 +1,4 @@
-package Calismalar.C_06_ClassesWithAttributes;
+package Calismalar.C_06_ClassesWithAttributes_GetterSetter_Constructor;
 
 /**
  * @version 1.0
@@ -11,6 +11,6 @@ package Calismalar.C_06_ClassesWithAttributes;
  */
 public class ProductManager {
     public void Add(Product product) {
-        System.out.printf("Product is added: %s\n", product.getName());
+        System.out.printf("Product is added: %s, %s\n", product.getName(),product.getDescription());
     }
 }

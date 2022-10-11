@@ -1,4 +1,4 @@
-package Calismalar.C_06_ClassesWithAttributes;
+package Calismalar.C_06_ClassesWithAttributes_GetterSetter_Constructor;
 
 /**
  * @version 1.0
@@ -30,6 +30,7 @@ public class Product {
         this.color = color;
     }
 
+    //* */ Attributes || Fields
     private int id;
     private String name;
     private String description;

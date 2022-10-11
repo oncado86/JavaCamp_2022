@@ -1,4 +1,4 @@
-package Calismalar.C_06_ClassesWithAttributes;
+package Calismalar.C_06_ClassesWithAttributes_GetterSetter_Constructor;
 
 /**
  * @version 1.0
