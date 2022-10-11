@@ -28,7 +28,7 @@ public class miniProjeMukemmelSayi {
             readConsole.close();
             return number;
         } catch (Exception e) {
-            System.out.println("ERROR: Please entere just number!");
+            System.out.println("ERROR: Please enter just number!");
             return getNumber();
         }
     }
@@ -41,12 +41,18 @@ public class miniProjeMukemmelSayi {
      */
     private static String isPerfectNumber(int number) {
         int divisorSum = 1;
+        String message = "";
+
         for (int i = 2; i < number; i++) {
             if (number % i == 0)
                 divisorSum += i;
         }
         if (divisorSum == number)
-            return String.format("%d is perfect number.", number);
-        return String.format("%d is not perfect number.", number);
+            message = String.format("%d is perfect number.", number);
+        else
+            message = String.format("%d is not perfect number.", number);
+
+        return message;
+
     }
 }
