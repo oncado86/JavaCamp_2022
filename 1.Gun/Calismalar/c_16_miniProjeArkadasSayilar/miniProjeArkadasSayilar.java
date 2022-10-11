@@ -56,7 +56,7 @@ public class miniProjeArkadasSayilar {
      */
     private static int divisorSum(int number) {
         int divisorTotal = 1;
-        for (int i = 2; i < number; i++) {
+        for (int i = 1; i < number; i++) {
             if (number % i == 0)
                 divisorTotal += i;
         }
