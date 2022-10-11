@@ -9,13 +9,11 @@ package Ders.OOP_1;
  **          Özellikleri camelCase olarak isimlendirilir
  **          Sınıflar şablon olarak kullanılabilir.
  */
-public class Product { //? Urün
-    
-    public static void main(String[] args) {
-        String name; //? UrünAdi
-        double unitPrice; //? birimFiyati
-        double discount; //? indirim oranı
-        String imageUrl; //? urunResimAdresi
-        int unitsInStock; //? stokMiktari
-    }
+public class Product { // ? Urün
+    String name; // ? UrünAdi
+    double unitPrice; // ? birimFiyati
+    double discount; // ? indirim oranı
+    String imageUrl; // ? urunResimAdresi
+    int unitsInStock; // ? stokMiktari
+
 }
