@@ -10,7 +10,7 @@ public class miniProjeSayıBulma {
      * @deprecated JAVA Yazılım Geliştirici Kampı 2022
      * @version 1.0
      * 
-     **          Sayı bulma
+     **          Sayı Listede Var Mı?
      */
     public static void main(String[] args) {
         System.out.println("Please enter a number for the number list: (-1 for the finish)");
