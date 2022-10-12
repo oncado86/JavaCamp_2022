@@ -8,5 +8,8 @@ Engin Demiroğ : Software Developer Training Camp - JAVA (2022)
 
 
 ![java](https://user-images.githubusercontent.com/77399565/194779564-3374fa9a-aeb9-4fe8-bee0-fddf0b287158.png)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 112c087 (update)
 </div>
