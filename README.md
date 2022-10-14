@@ -34,7 +34,7 @@
             <summary> Homeworks / Ödevler </summary>
                 <ul>
                     <li>
-                        <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks" target="_blank">Hello World!</a>
+                        <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h01_HelloWorld" target="_blank">Hello World!</a>
                     </li>
                     <li>
                         <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h02_Variables" target="_blank">Variables</a>
@@ -143,7 +143,7 @@
                     <a href ="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day2/Homeworks/h08_Inheritance" target="_blank">Inheritance</a>
                 </li>
                 <li>
-                    <a href ="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day2/Homeworks/h08_Inheritance" target="_blank">Inheritance Demo</a>
+                    <a href ="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day2/Homeworks/h09_InheritanceDemo" target="_blank">Inheritance Demo</a>
                 </li>
             </ul>
         </details>
