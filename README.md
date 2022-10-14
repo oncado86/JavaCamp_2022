@@ -13,15 +13,17 @@
 </pre>
 <br>
 <br>
+<h2>Contents</h2>
 <hr>
+<h3>
 <div align="left">
 <!--Week1-->
 <details>
-<summary> 1st Week / 1. Hafta </summary>
+<summary> 1st Week</summary>
 <ul>
     <li>
         <details>
-            <summary> Education / Eğitim </summary>
+            <summary> Education</summary>
                 <ul>
                     <li>
                         <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Education/Intro" target="_blank">Intro</a>
@@ -31,7 +33,7 @@
     </li>
     <li>
         <details>
-            <summary> Homeworks / Ödevler </summary>
+            <summary> Homeworks</summary>
                 <ul>
                     <li>
                         <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h01_HelloWorld" target="_blank">Hello World!</a>
@@ -100,11 +102,11 @@
 </details>
 <!--Week2-->
 <details>
-<summary> 2st Week / 2. Hafta </summary>
+<summary> 2st Week</summary>
 <ul>
     <li>
         <details>
-            <summary> Education / Eğitim </summary>
+            <summary> Education</summary>
                 <ul>
                     <li>
                         <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day2/Education/OOP_1" target="_blank">OOP : Object-Oriented Programming</a>
@@ -114,7 +116,7 @@
     </li>
     <li>
         <details>
-            <summary> Homeworks / Ödevler </summary>
+            <summary> Homeworks</summary>
             <ul>
                 <li>
                     <a href ="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day2/Homeworks/h01_Methods" target="_blank">Methods</a>
@@ -152,11 +154,11 @@
 </details>
 <!--Week3-->
 <details>
-<summary> 3st Week / 3. Hafta </summary>
+<summary> 3st Week</summary>
 <ul>
     <li>
         <details>
-            <summary> Education / Eğitim </summary>
+            <summary> Education</summary>
                 <ul>
                     <li>
                         <a href ="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day3/Education/oopWithNLayeredApp" target="_blank">OOP With N Layered App</a>
@@ -166,18 +168,21 @@
     </li>
     <li>
         <details>
-            <summary> Homeworks / Ödevler </summary>
+            <summary> Homeworks</summary>
         </details>
     </li>
 </ul>
 </details>
 </div>
+</h3>
 <hr>
 <br>
 <br>
 <pre>
+<h2>
+Special thanks to Engin Demiroğ
 <b><a href="https://www.youtube.com/watch?v=-XfPd-cQRuo&list=PLqG356ExoxZUGztzAxqIWkkTq8JVa-o3X" target="_blank">>>> Java Camp (2022) <<<</a></b>
-
+</h2>
 <img src="https://user-images.githubusercontent.com/77399565/194779564-3374fa9a-aeb9-4fe8-bee0-fddf0b287158.png"/>
 </pre>
 </div>
