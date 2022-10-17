@@ -16,7 +16,7 @@ public class Main {
         CustomerManager cm = new CustomerManager(new JdbcCustomerDataAccess());
         cm.add(c1);
 
-        Customer c2 = new Company(0, "OnCaDo", "Ankara", "112233");
+        Customer c2 = new Company(1, "OnCaDo", "Ankara", "112233");
         cm.add(c2);
 
         cm.delete(c1);
