@@ -1,13 +1,17 @@
+package Education.oopWithNLayeredApp;
+
 import java.util.ArrayList;
 import java.util.List;
 
-import business.ProductManager;
-import core.logging.DataBaseLogger;
-import core.logging.FileLogger;
-import core.logging.Logger;
-import core.logging.MailLogger;
-import dataAccess.JdbcProductDao;
-import entities.Product;
+import Education.oopWithNLayeredApp.business.ProductManager;
+import Education.oopWithNLayeredApp.core.logging.DataBaseLogger;
+import Education.oopWithNLayeredApp.core.logging.FileLogger;
+import Education.oopWithNLayeredApp.core.logging.Logger;
+import Education.oopWithNLayeredApp.core.logging.MailLogger;
+import Education.oopWithNLayeredApp.dataAccess.JdbcProductDao;
+import Education.oopWithNLayeredApp.entities.Product;
+
+
 
 /**
  * @version 1.0

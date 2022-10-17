@@ -1,6 +1,6 @@
-package dataAccess;
+package Education.oopWithNLayeredApp.dataAccess;
 
-import entities.Product;
+import Education.oopWithNLayeredApp.entities.Product;
 
 public class JdbcProductDao implements ProductDao {
     public void add(Product product) {

@@ -1,4 +1,4 @@
-package entities;
+package Education.oopWithNLayeredApp.entities;
 
 public class Product {
     private int id;

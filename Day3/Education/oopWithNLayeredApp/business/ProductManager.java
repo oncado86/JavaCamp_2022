@@ -1,10 +1,12 @@
-package business;
+package Education.oopWithNLayeredApp.business;
 
 import java.util.List;
 
-import core.logging.Logger;
-import dataAccess.ProductDao;
-import entities.Product;
+import Education.oopWithNLayeredApp.core.logging.Logger;
+import Education.oopWithNLayeredApp.dataAccess.ProductDao;
+import Education.oopWithNLayeredApp.entities.Product;
+
+
 
 public class ProductManager {
     private ProductDao productDao;

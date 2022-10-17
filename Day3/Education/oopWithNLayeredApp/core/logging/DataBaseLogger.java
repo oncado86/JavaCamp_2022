@@ -1,4 +1,4 @@
-package core.logging;
+package Education.oopWithNLayeredApp.core.logging;
 
 public class DataBaseLogger implements Logger {
 

@@ -1,6 +1,6 @@
-package dataAccess;
+package Education.oopWithNLayeredApp.dataAccess;
 
-import entities.Product;
+import Education.oopWithNLayeredApp.entities.Product;
 
 public interface ProductDao {
     void add(Product product);
