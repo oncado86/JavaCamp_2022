@@ -1,6 +1,5 @@
 package Homeworks.h01_OOP.entities;
 
-
 public class Customer implements IEntitie {
     private int id;
     private String city;
@@ -29,9 +28,8 @@ public class Customer implements IEntitie {
         this.city = city;
     }
 
-    public String getName(IEntitie entity) { 
+    public String getName(IEntitie entity) {
         return entity.getName();
-        
     }
 
     @Override
