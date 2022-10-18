@@ -6,9 +6,9 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
         List<BaseKrediManager> krediManagers= Arrays.asList(
-            new OgrenciKrediManager(),
             new OgretmenKrediManager(),
-            new TarimKrediManager()
+            new TarimKrediManager(),
+            new OgrenciKrediManager()
         );
 
         for (BaseKrediManager krediManager : krediManagers) {
