@@ -1,4 +1,4 @@
-package Homeworks.h02_polymorohismDemo;
+package Homeworks.h02_polymorphismDemo;
 
 public class CustomerManager {
     private BaseLogger logger;

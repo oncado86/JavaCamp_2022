@@ -1,4 +1,4 @@
-package Homeworks.h02_polymorohismDemo;
+package Homeworks.h02_polymorphismDemo;
 
 import java.util.Arrays;
 import java.util.List;
