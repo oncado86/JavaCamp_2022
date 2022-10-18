@@ -13,7 +13,7 @@
 </pre>
 <br>
 <br>
-<h2>Contents</h2>
+<h2><code>Contents</code></h2>
 <hr>
 <h3>
 <div align="left">
