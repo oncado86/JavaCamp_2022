@@ -174,7 +174,7 @@
                             <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day3/Homeworks/h01_OOP" target="_blank">OOP Demo</a>
                         </li>
                         <li>
-                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day3/Homeworks/h02_polymorohismDemo" target="_blank">Polymorphism Demo</a>
+                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day3/Homeworks/h02_polymorphismDemo" target="_blank">Polymorphism Demo</a>
                         </li>
                         <li>
                             <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day3/Homeworks/h03_overriding" target="_blank">Overriding</a>
