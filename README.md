@@ -23,7 +23,6 @@
     <ul>
         <li>
             <details>
-                <br>
                 <summary> Education</summary>
                     <ul>
                         <li>
