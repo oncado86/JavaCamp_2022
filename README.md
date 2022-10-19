@@ -23,79 +23,79 @@
     <ul>
         <li>
             <details>
-                <summary> Education</summary>
-                    <ul>
-                        <li>
-                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Education/Intro" target="_blank">Intro</a>
-                        </li>
-                    </ul>
+            <summary> Education</summary>
+                <ul>
+                    <li>
+                        <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Education/Intro" target="_blank">Intro</a>
+                    </li>
+                </ul>
             </details>
         </li>
         <li>
             <details>
-                <summary> Homeworks</summary>
-                    <ul>
-                        <li>
-                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h01_HelloWorld" target="_blank">Hello World!</a>
-                        </li>
-                        <li>
-                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h02_Variables" target="_blank">Variables</a>
-                        </li>
-                        <li>
-                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h03_DataTypes" target="_blank">Data Types</a>
-                        </li>
-                        <li>
-                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h04_Conditionals" target="_blank">Conditionals</a>
-                        </li>
-                        <ul>
-                        <li>
-                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h05_RecapDemo1" target="_blank">Recap Demo 1</a>
-                        </li>
-                        </ul>
-                        <li>
-                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h06_SwitchDemo" target="_blank">Switch Demo</a>
-                        </li>
-                        <li>
-                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h07_LoopDemo" target="_blank">Loop Demo</a>
-                        </li>
-                        <li>
-                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h08_ArraysDemo" target="_blank">Arrays Demo</a>
-                        </li>
-                        <ul>
-                        <li>
-                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h09_RecapDemo2" target="_blank">Recap Demo 2</a>
-                        </li>
-                        </ul>
-                        <li>
-                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h10_MultiDimensionalArrayDemo" target="_blank">Multi Dimensional Array Demo</a>
-                        </li>
-                        <li>
-                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h11_StringsDemo" target="_blank">Strings Demo</a>
-                        </li>
-                        <li>
-                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h12_StringsDemo2" target="_blank">Strings Demo 2</a>
-                        </li>
-                        <li>
+            <summary> Homeworks</summary>
+                <ul>
+                    <li>
+                        <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h01_HelloWorld" target="_blank">Hello World!</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h02_Variables" target="_blank">Variables</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h03_DataTypes" target="_blank">Data Types</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h04_Conditionals" target="_blank">Conditionals</a>
+                    </li>
+                <ul>
+                    <li>
+                        <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h05_RecapDemo1" target="_blank">Recap Demo 1</a>
+                    </li>
+                </ul>
+                    <li>
+                        <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h06_SwitchDemo" target="_blank">Switch Demo</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h07_LoopDemo" target="_blank">Loop Demo</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h08_ArraysDemo" target="_blank">Arrays Demo</a>
+                    </li>
+                <ul>
+                    <li>
+                        <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h09_RecapDemo2" target="_blank">Recap Demo 2</a>
+                    </li>
+                </ul>
+                    <li>
+                        <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h10_MultiDimensionalArrayDemo" target="_blank">Multi Dimensional Array Demo</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h11_StringsDemo" target="_blank">Strings Demo</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h12_StringsDemo2" target="_blank">Strings Demo 2</a>
+                    </li>
+                    <li>
                         Mini-Projects:
+                    </li>
+                        <ul>
+                            <li>
+                                <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h13_MiniProjeAsalSayi" target="_blank">Prime Number</a>
+                            </li>
+                        <li>
+                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h14_MiniProjeSesliHarf" target="_blank">Vowel</a>
                         </li>
-                            <ul>
-                                <li>
-                                    <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h13_MiniProjeAsalSayi" target="_blank">Prime Number</a>
-                                </li>
-                            <li>
-                                <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h14_MiniProjeSesliHarf" target="_blank">Vowel</a>
-                            </li>
-                            <li>
-                                <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h15_MiniProjeMukemmelSayi" target="_blank">Perfect Number</a>
-                            </li>
-                            <li>
-                                <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h16_miniProjeArkadasSayilar" target="_blank">Friend Numbers</a>
-                            </li>
-                            <li>
-                                <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h17_MiniProjeSayiBulma" target="_blank">Is the number on the list?</a>
-                            </li>
-                        </ul>
+                        <li>
+                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h15_MiniProjeMukemmelSayi" target="_blank">Perfect Number</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h16_miniProjeArkadasSayilar" target="_blank">Friend Numbers</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day1/Homeworks/h17_MiniProjeSayiBulma" target="_blank">Is the number on the list?</a>
+                        </li>
                     </ul>
+                </ul>
             </details>
         </li>
     </ul>
@@ -106,17 +106,17 @@
     <ul>
         <li>
             <details>
-                <summary> Education</summary>
-                    <ul>
-                        <li>
-                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day2/Education/OOP_1" target="_blank">OOP : Object-Oriented Programming</a>
-                        </li>
-                    </ul>
+            <summary> Education</summary>
+                <ul>
+                    <li>
+                        <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day2/Education/OOP_1" target="_blank">OOP : Object-Oriented Programming</a>
+                    </li>
+                </ul>
             </details>
         </li>
         <li>
             <details>
-                <summary> Homeworks</summary>
+            <summary> Homeworks</summary>
                 <ul>
                     <li>
                         <a href ="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day2/Homeworks/h01_Methods" target="_blank">Methods</a>
@@ -158,43 +158,57 @@
     <ul>
         <li>
             <details>
-                <summary> Education</summary>
-                    <ul>
-                        <li>
-                            <a href ="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day3/Education/oopWithNLayeredApp" target="_blank">OOP With N Layered App</a>
-                        </li>
-                    </ul>
+            <summary> Education</summary>
+                <ul>
+                    <li>
+                        <a href ="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day3/Education/oopWithNLayeredApp" target="_blank">OOP With N Layered App</a>
+                    </li>
+                </ul>
             </details>
         </li>
         <li>
             <details>
                 <summary> Homeworks</summary>
-                    <ul>
-                        <li>
-                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day3/Homeworks/h01_OOP" target="_blank">OOP Demo</a>
-                        </li>
-                        <li>
-                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day3/Homeworks/h02_polymorphismDemo" target="_blank">Polymorphism Demo</a>
-                        </li>
-                        <li>
-                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day3/Homeworks/h03_overriding" target="_blank">Overriding</a>
-                        </li>
-                        <li>
-                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day3/Homeworks/h04_abstractClasses" target="_blank">Abstract Classes</a>
-                        </li>
-                        <li>
-                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day3/Homeworks/h05_abstractDemo" target="_blank">Abstract Demo</a>
-                        </li>
-                        <li>
-                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day3/Homeworks/h06_interfaces_polymorphism" target="_blank">Interfaces & Polymorphism</a>
-                        </li>
-                        <li>
-                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day3/Homeworks/h07_interfaceDemo" target="_blank">Interfaces Demo</a>
-                        </li>
-                        <li>
-                            <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day3/Homeworks/h08_staticDemo" target="_blank">Static Demo</a>
-                        </li>
-                    </ul>
+                <ul>
+                    <li>
+                        <details>
+                        <summary> 1st Homework</summary>
+                            <ul>
+                                <li>
+                                    <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day3/Homeworks/h01_OOP" target="_blank">OOP Demo</a>
+                                </li>
+                            </ul>
+                        </details>
+                    </li>
+                    <li>
+                        <details>
+                        <summary> 2st Homework</summary>
+                            <ul>
+                                <li>
+                                    <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day3/Homeworks/h02_polymorphismDemo" target="_blank">Polymorphism Demo</a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day3/Homeworks/h03_overriding" target="_blank">Overriding</a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day3/Homeworks/h04_abstractClasses" target="_blank">Abstract Classes</a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day3/Homeworks/h05_abstractDemo" target="_blank">Abstract Demo</a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day3/Homeworks/h06_interfaces_polymorphism" target="_blank">Interfaces & Polymorphism</a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day3/Homeworks/h07_interfaceDemo" target="_blank">Interfaces Demo</a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day3/Homeworks/h08_staticDemo" target="_blank">Static Demo</a>
+                                </li>
+                            </ul>
+                        </details>
+                    </li>
+                </ul>
             </details>
         </li>
     </ul>
