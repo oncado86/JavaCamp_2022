@@ -1,4 +1,4 @@
-package Homeworks.h07_interfaceDemo;
+package Homeworks.Homework_2.h06_interfaceDemo;
 
 public interface IPayable {
     void pay();

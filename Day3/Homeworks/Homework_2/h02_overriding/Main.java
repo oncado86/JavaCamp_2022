@@ -1,4 +1,4 @@
-package Homeworks.h03_overriding;
+package Homeworks.Homework_2.h02_overriding;
 
 import java.util.Arrays;
 import java.util.List;

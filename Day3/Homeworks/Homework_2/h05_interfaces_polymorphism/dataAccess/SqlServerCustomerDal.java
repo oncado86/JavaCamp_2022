@@ -1,4 +1,4 @@
-package Homeworks.h06_interfaces_polymorphism.dataAccess;
+package Homeworks.Homework_2.h05_interfaces_polymorphism.dataAccess;
 
 public class SqlServerCustomerDal implements ICustomerDal{
 

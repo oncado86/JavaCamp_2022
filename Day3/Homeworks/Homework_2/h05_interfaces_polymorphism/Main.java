@@ -1,9 +1,9 @@
-package Homeworks.h06_interfaces_polymorphism;
+package Homeworks.Homework_2.h05_interfaces_polymorphism;
 
-import Homeworks.h06_interfaces_polymorphism.business.CustomerManager;
-import Homeworks.h06_interfaces_polymorphism.dataAccess.MySqlCustomerDal;
-import Homeworks.h06_interfaces_polymorphism.dataAccess.OracleCustomerDal;
-import Homeworks.h06_interfaces_polymorphism.dataAccess.SqlServerCustomerDal;
+import Homeworks.Homework_2.h05_interfaces_polymorphism.business.CustomerManager;
+import Homeworks.Homework_2.h05_interfaces_polymorphism.dataAccess.MySqlCustomerDal;
+import Homeworks.Homework_2.h05_interfaces_polymorphism.dataAccess.OracleCustomerDal;
+import Homeworks.Homework_2.h05_interfaces_polymorphism.dataAccess.SqlServerCustomerDal;
 
 public class Main {
     public static void main(String[] args) {

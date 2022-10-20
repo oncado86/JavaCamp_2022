@@ -1,4 +1,4 @@
-package Homeworks.h08_staticDemo;
+package Homeworks.Homework_2.h07_staticDemo;
 
 public class Product {
     private int id;

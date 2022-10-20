@@ -1,6 +1,6 @@
-package Homeworks.h06_interfaces_polymorphism.business;
+package Homeworks.Homework_2.h05_interfaces_polymorphism.business;
 
-import Homeworks.h06_interfaces_polymorphism.dataAccess.ICustomerDal;
+import Homeworks.Homework_2.h05_interfaces_polymorphism.dataAccess.ICustomerDal;
 
 public class CustomerManager {
     public ICustomerDal customerDal;

@@ -1,6 +1,6 @@
-package Homeworks.h01_OOP.dataAccess;
+package Homeworks.Homework_1.h01_OOP.dataAccess;
 
-import Homeworks.h01_OOP.entities.IEntitie;
+import Homeworks.Homework_1.h01_OOP.entities.IEntitie;
 
 public class OracleCustomerDataAccess implements ICustomerDAL {
 

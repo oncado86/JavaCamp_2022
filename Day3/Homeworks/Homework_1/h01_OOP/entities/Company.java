@@ -1,4 +1,4 @@
-package Homeworks.h01_OOP.entities;
+package Homeworks.Homework_1.h01_OOP.entities;
 
 public class Company extends Customer {
     private String companyName;

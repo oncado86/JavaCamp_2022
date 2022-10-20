@@ -1,11 +1,11 @@
-package Homeworks.h01_OOP;
+package Homeworks.Homework_1.h01_OOP;
 
-import Homeworks.h01_OOP.business.CarCreditManager;
-import Homeworks.h01_OOP.business.CustomerManager;
-import Homeworks.h01_OOP.dataAccess.JdbcCustomerDataAccess;
-import Homeworks.h01_OOP.entities.Company;
-import Homeworks.h01_OOP.entities.Customer;
-import Homeworks.h01_OOP.entities.Person;
+import Homeworks.Homework_1.h01_OOP.business.CarCreditManager;
+import Homeworks.Homework_1.h01_OOP.business.CustomerManager;
+import Homeworks.Homework_1.h01_OOP.dataAccess.JdbcCustomerDataAccess;
+import Homeworks.Homework_1.h01_OOP.entities.Company;
+import Homeworks.Homework_1.h01_OOP.entities.Customer;
+import Homeworks.Homework_1.h01_OOP.entities.Person;
 
 public class Main {
     public static void main(String[] args) {

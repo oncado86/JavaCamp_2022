@@ -1,4 +1,4 @@
-package Homeworks.h02_polymorphismDemo;
+package Homeworks.Homework_2.h01_polymorphismDemo;
 
 public class DatabaseLogger extends BaseLogger {
     @Override

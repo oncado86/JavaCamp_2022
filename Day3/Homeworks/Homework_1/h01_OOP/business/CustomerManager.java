@@ -1,7 +1,7 @@
-package Homeworks.h01_OOP.business;
+package Homeworks.Homework_1.h01_OOP.business;
 
-import Homeworks.h01_OOP.dataAccess.ICustomerDAL;
-import Homeworks.h01_OOP.entities.IEntitie;
+import Homeworks.Homework_1.h01_OOP.dataAccess.ICustomerDAL;
+import Homeworks.Homework_1.h01_OOP.entities.IEntitie;
 
 public class CustomerManager {
     private ICustomerDAL customerDAL;

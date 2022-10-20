@@ -1,4 +1,4 @@
-package Homeworks.h05_abstractDemo;
+package Homeworks.Homework_2.h04_abstractDemo;
 
 public class Main {
     public static void main(String[] args) {
