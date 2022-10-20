@@ -4,18 +4,27 @@ public class Course implements IEntitie{
     private int id;
     private String name;
     private String description;
-    private IEntitie entitie;
-    private Instructor instructor;
+    private IEntitie category;
+    private IEntitie instructor;
+    // private Instructor instructor;
 
     public Course() {
     }
 
     // Course(int, String, String, IEntitie, Instructor)
-    public Course(int id, String name, String description, IEntitie entitie, Instructor instructor) {
+    // public Course(int id, String name, String description, IEntitie entitie, Instructor instructor) {
+    //     this.id = id;
+    //     this.name = name;
+    //     this.description = description;
+    //     this.entitie = entitie;
+    //     this.instructor = instructor;
+    // }
+
+    public Course(int id, String name, String description, IEntitie category, IEntitie instructor) {
         this.id = id;
         this.name = name;
         this.description = description;
-        this.entitie = entitie;
+        this.category = category;
         this.instructor = instructor;
     }
 
@@ -43,20 +52,28 @@ public class Course implements IEntitie{
         this.description = description;
     }
 
-    public IEntitie getCourse() {
-        return entitie;
+    public IEntitie getCategory() {
+        return category;
     }
 
-    public void setCourse(IEntitie entitie) {
-        this.entitie = entitie;
+    public void setCategory(IEntitie category) {
+        this.category = category;
     }
 
-    public Instructor getInstructor() {
+    public IEntitie getInstructor() {
         return instructor;
     }
 
-    public void setInstructor(Instructor instructor) {
+    public void setInstructor(IEntitie instructor) {
         this.instructor = instructor;
     }
+
+    // public Instructor getInstructor() {
+    //     return instructor;
+    // }
+
+    // public void setInstructor(Instructor instructor) {
+    //     this.instructor = instructor;
+    // }
 
 }
