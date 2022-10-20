@@ -6,5 +6,5 @@ public class EmailLogger implements ILoggerBase {
     public void log(String message) {
         System.out.println(String.format("Logged to email: %s", message));
     }
-    
+
 }

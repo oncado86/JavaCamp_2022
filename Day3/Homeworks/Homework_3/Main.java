@@ -15,9 +15,6 @@ import Homeworks.Homework_3.entities.Course;
 import Homeworks.Homework_3.entities.IEntitie;
 import Homeworks.Homework_3.entities.Instructor;
 
-/**
- * Main
- */
 public class Main {
 
         public static void main(String[] args) {
@@ -67,7 +64,6 @@ public class Main {
                 managerJDBC.add(egitmen1, baseInstructor);
                 managerJDBC.add(egitmen2, baseInstructor);
                 System.out.println("--------------------------------");
-
 
         }
 }

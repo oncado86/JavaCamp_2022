@@ -6,5 +6,5 @@ public class DatabaseLogger implements ILoggerBase {
     public void log(String message) {
         System.out.println(String.format("Logged to database: %s", message));
     }
-    
+
 }
