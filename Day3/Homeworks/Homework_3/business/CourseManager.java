@@ -15,13 +15,13 @@ public class CourseManager extends BaseManager {
 
     public void add(Course course, List<IEntitie> baseEntities) {
         if (!isCategoryOnTheList(course.getName(), baseEntities)) {
-            if (course.getCourseFee() > 0) {
+            if (course.getCoursePrice() > 0) {
                 dalBase.add(course);
                 for (ILoggerBase logger : loggers) {
                     logger.log(course.getName());
                 }
             } else {
-                System.out.println("Course fee cannot be less than 0!");
+                System.out.println("Course price cannot be less than: 0");
             }
 
         } else
