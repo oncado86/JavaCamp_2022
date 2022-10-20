@@ -30,12 +30,12 @@ public class Main {
                 List<IEntitie> baseCategories = Arrays.asList(
                                 new Category(0, "Programlama"));
 
-                List<IEntitie> baseInstructor = Arrays.asList(
+                List<IEntitie> baseEducator = Arrays.asList(
                                 new Educator(0, "Engin", "Demiroğ"));
 
                 List<IEntitie> baseCourses = Arrays.asList(
                                 new Course(0, "Java Kampı", "Java Yazılım Geliştirici Kampı",
-                                                baseCategories.get(0), baseInstructor.get(0), 1000));
+                                                baseCategories.get(0), baseEducator.get(0), 1000));
 
                 IEntitie kategori1 = new Category(1, "Kategori 1");
                 IEntitie kategori2 = new Category(2, "Programlama");
@@ -59,10 +59,10 @@ public class Main {
                 courseManagerHipernate.add(kurs1, baseCourses);
                 courseManagerHipernate.add(kurs2, baseCourses);
                 courseManagerHipernate.add(kurs3, baseCourses);
-                System.out.println("--------------------------------\nInstructor Tests:");
-                // instructor
-                managerJDBC.add(egitmen1, baseInstructor);
-                managerJDBC.add(egitmen2, baseInstructor);
+                System.out.println("--------------------------------\nEducator Tests:");
+                // educator
+                managerJDBC.add(egitmen1, baseEducator);
+                managerJDBC.add(egitmen2, baseEducator);
                 System.out.println("--------------------------------");
 
         }

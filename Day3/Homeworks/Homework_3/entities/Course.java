@@ -6,17 +6,17 @@ public class Course implements IEntitie {
     private String name;
     private String description;
     private IEntitie category;
-    private IEntitie instructor;
+    private IEntitie educator;
 
     public Course() {
     }
 
-    public Course(int id, String name, String description, IEntitie category, IEntitie instructor, int coursePrice) {
+    public Course(int id, String name, String description, IEntitie category, IEntitie educator, int coursePrice) {
         this.id = id;
         this.name = name;
         this.description = description;
         this.category = category;
-        this.instructor = instructor;
+        this.educator = educator;
         this.coursePrice = coursePrice;
     }
 
@@ -52,12 +52,12 @@ public class Course implements IEntitie {
         this.category = category;
     }
 
-    public IEntitie getInstructor() {
-        return instructor;
+    public IEntitie getEducator() {
+        return educator;
     }
 
-    public void setInstructor(IEntitie instructor) {
-        this.instructor = instructor;
+    public void setEducator(IEntitie educator) {
+        this.educator = educator;
     }
 
     public int getCoursePrice() {
