@@ -1,7 +1,9 @@
 package Homeworks.Homework_3.entities;
 
-public class Course implements IEntitie{
+public class Course implements IEntitie {
     private int id;
+    private int courseFee;    
+
     private String name;
     private String description;
     private IEntitie category;
@@ -11,21 +13,13 @@ public class Course implements IEntitie{
     public Course() {
     }
 
-    // Course(int, String, String, IEntitie, Instructor)
-    // public Course(int id, String name, String description, IEntitie entitie, Instructor instructor) {
-    //     this.id = id;
-    //     this.name = name;
-    //     this.description = description;
-    //     this.entitie = entitie;
-    //     this.instructor = instructor;
-    // }
-
-    public Course(int id, String name, String description, IEntitie category, IEntitie instructor) {
+    public Course(int id, String name, String description, IEntitie category, IEntitie instructor, int courseFee) {
         this.id = id;
         this.name = name;
         this.description = description;
         this.category = category;
         this.instructor = instructor;
+        this.courseFee = courseFee;
     }
 
     public int getId() {
@@ -68,12 +62,12 @@ public class Course implements IEntitie{
         this.instructor = instructor;
     }
 
-    // public Instructor getInstructor() {
-    //     return instructor;
-    // }
+    public int getCourseFee() {
+        return courseFee;
+    }
 
-    // public void setInstructor(Instructor instructor) {
-    //     this.instructor = instructor;
-    // }
+    public void setCourseFee(int courseFee) {
+        this.courseFee = courseFee;
+    }
 
 }

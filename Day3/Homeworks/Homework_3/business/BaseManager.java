@@ -7,8 +7,8 @@ import Homeworks.Homework_3.dataAccess.IDalBase;
 import Homeworks.Homework_3.entities.IEntitie;
 
 public class BaseManager {
-    private IDalBase dalBase;
-    private List<ILoggerBase> loggers;
+    protected IDalBase dalBase;
+    protected List<ILoggerBase> loggers;
 
     public BaseManager(IDalBase dalBase, List<ILoggerBase> loggers) {
         this.dalBase = dalBase;
@@ -25,7 +25,7 @@ public class BaseManager {
             System.out.println(String.format("This category already exists!: '%s'", entitie.getName()));
     }
 
-    private boolean isCategoryOnTheList(String entitieToSearch, List<IEntitie> entities) {
+    protected boolean isCategoryOnTheList(String entitieToSearch, List<IEntitie> entities) {
         boolean result = false;
         for (IEntitie entitie : entities) {
             if (entitieToSearch.equals(entitie.getName()))
