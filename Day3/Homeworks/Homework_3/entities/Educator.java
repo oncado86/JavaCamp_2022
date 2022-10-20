@@ -1,14 +1,14 @@
 package Homeworks.Homework_3.entities;
 
-public class Instructor implements IEntitie {
+public class Educator implements IEntitie {
     private int id;
     private String firstName;
     private String lastName;
 
-    public Instructor() {
+    public Educator() {
     }
 
-    public Instructor(int id, String firstName, String lastName) {
+    public Educator(int id, String firstName, String lastName) {
         this.id = id;
         this.firstName = firstName;
         this.lastName = lastName;

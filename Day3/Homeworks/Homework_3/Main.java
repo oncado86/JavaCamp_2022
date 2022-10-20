@@ -13,7 +13,7 @@ import Homeworks.Homework_3.dataAccess.JdbcDatabaseDal;
 import Homeworks.Homework_3.entities.Category;
 import Homeworks.Homework_3.entities.Course;
 import Homeworks.Homework_3.entities.IEntitie;
-import Homeworks.Homework_3.entities.Instructor;
+import Homeworks.Homework_3.entities.Educator;
 
 public class Main {
 
@@ -31,7 +31,7 @@ public class Main {
                                 new Category(0, "Programlama"));
 
                 List<IEntitie> baseInstructor = Arrays.asList(
-                                new Instructor(0, "Engin", "Demiroğ"));
+                                new Educator(0, "Engin", "Demiroğ"));
 
                 List<IEntitie> baseCourses = Arrays.asList(
                                 new Course(0, "Java Kampı", "Java Yazılım Geliştirici Kampı",
@@ -40,8 +40,8 @@ public class Main {
                 IEntitie kategori1 = new Category(1, "Kategori 1");
                 IEntitie kategori2 = new Category(2, "Programlama");
 
-                IEntitie egitmen1 = new Instructor(1, "OnCaDo", "OnCaDo");
-                IEntitie egitmen2 = new Instructor(2, "Engin", "Demiroğ");
+                IEntitie egitmen1 = new Educator(1, "OnCaDo", "OnCaDo");
+                IEntitie egitmen2 = new Educator(2, "Engin", "Demiroğ");
 
                 Course kurs1 = new Course(1, "Python", "Python Kampı", kategori1, egitmen1, 1000);
                 Course kurs2 = new Course(2, "Java Kampı", "Java Yazılım Geliştirici Kampı", kategori2, egitmen2,
