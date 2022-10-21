@@ -26,5 +26,9 @@ public class DataTypes {
         // ? Metinsel veri tipleri
         char cValue = 'A';
         String metin = "Ankara";
+
+        System.out.println(
+                String.format("Boolean: %b\nInteger: %d\nByte: %d\nFloat: %f\nDouble: %f\nChar: %c\nString: %s",
+                        bValue, iSayi, bSayi, fSayi, dValue, cValue, metin));
     }
 }
