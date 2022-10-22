@@ -218,6 +218,19 @@
                         </ul>
                     </details>
                 </li>
+                <li>
+                    <details>
+                    <summary> 4-5-6th Homework</summary>
+                        <ul>
+                            <li>
+                                <a href ="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day3/Homeworks/Homework_4_5_6/h01_sql_northwind" target="_blank">Northwind database and SQL queries.</a>
+                            </li>
+                            <li>
+                                <a href ="https://github.com/oncado86/JavaCamp_2022/tree/JavaCamp2022/Day3/Homeworks/Homework_4_5_6/h02_database" target="_blank">A basic bank database design.</a>
+                            </li>
+                        </ul>
+                    </details>
+                </li>
             </details>
         </li>
     </ul>
