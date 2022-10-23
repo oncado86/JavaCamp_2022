@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "Day2",
+        "Day1",
+        "Day3"
+    ],
+    "dataworkspace.excludedProjects": [],
+    
+}
