@@ -22,7 +22,6 @@ public class Methods {
         System.out.print("Please enter a number for search: ");
         int theNumbertoSearch;
         theNumbertoSearch = getNumber();
-        scanner.close();
         System.out.println(isTheNumberOnTheLiString(theNumbertoSearch, theNumberList));
     }
 
@@ -59,7 +58,6 @@ public class Methods {
             // number = Integer.parseInt(readConsole.next());
 
             number = readConsole.nextInt();
-            readConsole.close();
             return number;
         } catch (Exception e) {
             System.out.println("ERROR: Please enter just number!");

@@ -43,7 +43,6 @@ public class MiniProjeArkadasSayilar {
         Scanner readConsole = new Scanner(System.in);
         try {
             number = Integer.parseInt(readConsole.next());
-            readConsole.close();
             return number;
         } catch (Exception e) {
             System.out.println("ERROR: Please enter just number!");

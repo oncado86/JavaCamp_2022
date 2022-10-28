@@ -44,7 +44,6 @@ public class MiniProjeSesliHarf {
                 System.out.println("Please enter a character!\n");
         } while (loops);
 
-        readConsole.close();
         return value;
     }
 

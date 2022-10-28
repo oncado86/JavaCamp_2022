@@ -12,8 +12,8 @@ package Homeworks.h09_InheritanceDemo;
 public class Main {
     public static void main(String[] args) {
         KrediUI krediUI = new KrediUI();
-        krediUI.KrediHesapla(new OgretmenKrediManager());
-        krediUI.KrediHesapla(new TarimKrediManager());
-        krediUI.KrediHesapla(new AskerKrediManager());
+        krediUI.krediHesapla(new OgretmenKrediManager());
+        krediUI.krediHesapla(new TarimKrediManager());
+        krediUI.krediHesapla(new AskerKrediManager());
     }
 }

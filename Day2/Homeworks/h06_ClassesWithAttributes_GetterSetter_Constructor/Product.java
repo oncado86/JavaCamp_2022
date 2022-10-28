@@ -37,7 +37,6 @@ public class Product {
     private double price;
     private int stockAmount;
     private String color;
-    // private String code;
 
     public int getId() {
         return id;

@@ -6,7 +6,6 @@ import Homeworks.Homework_1.h01_OOP.entities.IEntitie;
 public class CustomerManager {
     private ICustomerDAL customerDAL;
     private ICreditManager creditManager;
-    // private Customer customer;
 
     public CustomerManager(ICustomerDAL customerDAL, ICreditManager creditManager) {
         this.customerDAL = customerDAL;
